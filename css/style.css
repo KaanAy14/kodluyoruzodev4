@@ -1,0 +1,13 @@
+ .algncenter {
+ text-align: center;
+}
+.background{
+    background-color: #FFECD6;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #3559E0;
+}
+img{
+    width: 700px;
+    height: 400px;
+}
